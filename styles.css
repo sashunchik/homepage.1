@@ -15,6 +15,7 @@ body {
     --icon-color: #6a737d;
     --border-color: #ff9a0045;
     --text-decoration-color: #ff9a00;
+    --image-decoration-color: #42484f9c;
 }
 
 .container {
@@ -131,7 +132,7 @@ body {
     height: 100px;
     object-fit: cover;
     border: 3px solid;
-    border-color: var(--text-decoration-color);
+    border-color: var(--image-decoration-color);
 }
 
 /* Intro and skills styles */
